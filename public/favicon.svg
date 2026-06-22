@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="heartGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B3A8F;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#C74B8A;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E85D9A;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" fill="#1a0a2e"/>
+  <path d="M128 220 L60 152 C40 132 40 100 60 80 C80 60 112 60 128 76 C144 60 176 60 196 80 C216 100 216 132 196 152 Z" fill="url(#heartGrad)"/>
+  <circle cx="80" cy="60" r="4" fill="#FFD700"/>
+  <circle cx="176" cy="60" r="4" fill="#FFD700"/>
+  <circle cx="220" cy="120" r="3" fill="#FFD700"/>
+  <circle cx="36" cy="120" r="3" fill="#FFD700"/>
+  <circle cx="200" cy="180" r="3.5" fill="#FFD700"/>
+  <circle cx="56" cy="180" r="3.5" fill="#FFD700"/>
+  <circle cx="128" cy="40" r="5" fill="#FFD700"/>
+  <circle cx="100" cy="80" r="2.5" fill="#FFD700"/>
+  <circle cx="156" cy="80" r="2.5" fill="#FFD700"/>
+  <circle cx="210" cy="90" r="2" fill="#FFD700"/>
+  <circle cx="46" cy="90" r="2" fill="#FFD700"/>
+</svg>
