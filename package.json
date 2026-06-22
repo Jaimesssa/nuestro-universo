@@ -2,6 +2,7 @@
   "name": "app",
   "private": true,
   "scripts": {
+    "preinstall": "npm install --legacy-peer-deps",
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
